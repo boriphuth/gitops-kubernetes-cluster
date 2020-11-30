@@ -1,5 +1,7 @@
 # GitOps-Kubernetes-cluster
 
+<https://alexsimonjones.medium.com/bootstrapping-kubernetes-with-argocd-989f27ae475>
+
 A snapshot of a cluster configuation I've used running on Scaleway.
 It leverages ArgoCD to pull in a Helm chart that launches additional ArgoCD applications.
 
